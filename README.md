@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    News Website View
 
-## Available Scripts
+## Objective
 
-In the project directory, you can run:
+    To practice React web development.
+    To design and implement a newspaper-like user interface that is both functional and aesthetic.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    Bootstrap, NodeJs, React Router, ReactJs
 
-### `npm test`
+## Completion Instructions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Functionality
 
-### `npm run build`
+#### Must Have
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    Build a ReactJs application with 
+    1.Home Screen: This should display a list of articles in a format similar to 
+    traditional newspapers. Consider using columns, headlines, subheadings, and thumbnail images.
+    Article Detail Screen: Upon clicking an article on the Home Screen, the app should navigate to a detailed 
+    article view. This screen should display the article's title, content, author, and publication date.
+    2.Styling: Use Bootstrap components and custom styling to achieve a look reminiscent of a classic newspaper. Pay 
+    attention to typography, spacing, and layout.
+    3.Navigation: Implement routing between the Home Screen and the Article Detail Screen using React Router.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Nice to Have
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    Ensure your app is responsive and looks consistent on different device sizes.
 
-### `npm run eject`
+### Submission Instructions
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### Must Have
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    Push your code to a GitHub repository.
+    Submit the link to your GitHub repository along with your report.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### Nice to Have
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    Include a README file with setup instructions and any other documentation you find necessary.
 
-## Learn More
+## Resources
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Design files
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    List the references of design files required for the Assignment
 
-### Code Splitting
+### Data
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    Used static JSON object to simulate fetching articles.
 
-### Analyzing the Bundle Size
+### Third-party packages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    npm, react-dom-router, bootstrap

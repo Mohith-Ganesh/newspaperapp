@@ -1,0 +1,31 @@
+.item {
+    text-decoration: none;
+    
+  }
+
+  .link {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 85%;
+    border-radius: 12px;
+    border: 1px solid #ffffff;
+    padding-left: 7px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 7px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 24px;
+    text-decoration: none;
+  }
+
+  .article-item-image{
+    height: 100px;
+  }
+
+  .article-title{
+    font-size: 28px;
+    text-decoration: none;
+    color: #e63564;
+  }
